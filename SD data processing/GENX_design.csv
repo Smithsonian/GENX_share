@@ -186,96 +186,96 @@ BTemp(27),btemp27,plot,c8,y,btemp,genx,number,degrees Celsius,belowground pin an
 BTemp(28),btemp28,plot,a9,y,btemp,genx,number,degrees Celsius,belowground pin and lag temperature,genx_control
 BTemp(29),btemp29,plot,b9,y,btemp,genx,number,degrees Celsius,belowground pin and lag temperature,genx_control
 BTemp(30),btemp30,plot,c9,y,btemp,genx,number,degrees Celsius,belowground pin and lag temperature,genx_control
-STemp_Avg(1),stemp_avg1,plot,a0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(2),stemp_avg2,plot,a1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(3),stemp_avg3,plot,a2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(4),stemp_avg4,plot,a3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(5),stemp_avg5,plot,a4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(6),stemp_avg6,plot,a5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(7),stemp_avg7,plot,a6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(8),stemp_avg8,plot,a7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(9),stemp_avg9,plot,a8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(10),stemp_avg10,plot,a9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(11),stemp_avg11,plot,b0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(12),stemp_avg12,plot,b1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(13),stemp_avg13,plot,b2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(14),stemp_avg14,plot,b3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(15),stemp_avg15,plot,b4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(16),stemp_avg16,plot,b5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(17),stemp_avg17,plot,b6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(18),stemp_avg18,plot,b7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(19),stemp_avg19,plot,b8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(20),stemp_avg20,plot,b9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(21),stemp_avg21,plot,c0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(22),stemp_avg22,plot,c1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(23),stemp_avg23,plot,c2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(24),stemp_avg24,plot,c3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(25),stemp_avg25,plot,c4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(26),stemp_avg26,plot,c5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(27),stemp_avg27,plot,c6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(28),stemp_avg28,plot,c7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(29),stemp_avg29,plot,c8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Avg(30),stemp_avg30,plot,c9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_control
-STemp_Raw_Std(1),stemp_raw_std1,plot,a0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(2),stemp_raw_std2,plot,a1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(3),stemp_raw_std3,plot,a2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(4),stemp_raw_std4,plot,a3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(5),stemp_raw_std5,plot,a4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(6),stemp_raw_std6,plot,a5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(7),stemp_raw_std7,plot,a6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(8),stemp_raw_std8,plot,a7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(9),stemp_raw_std9,plot,a8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(10),stemp_raw_std10,plot,a9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(11),stemp_raw_std11,plot,b0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(12),stemp_raw_std12,plot,b1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(13),stemp_raw_std13,plot,b2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(14),stemp_raw_std14,plot,b3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(15),stemp_raw_std15,plot,b4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(16),stemp_raw_std16,plot,b5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(17),stemp_raw_std17,plot,b6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(18),stemp_raw_std18,plot,b7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(19),stemp_raw_std19,plot,b8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(20),stemp_raw_std20,plot,b9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(21),stemp_raw_std21,plot,c0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(22),stemp_raw_std22,plot,c1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(23),stemp_raw_std23,plot,c2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(24),stemp_raw_std24,plot,c3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(25),stemp_raw_std25,plot,c4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(26),stemp_raw_std26,plot,c5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(27),stemp_raw_std27,plot,c6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(28),stemp_raw_std28,plot,c7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(29),stemp_raw_std29,plot,c8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Std(30),stemp_raw_std30,plot,c9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(1),stemp_raw_avg1,plot,a0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(2),stemp_raw_avg2,plot,a1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(3),stemp_raw_avg3,plot,a2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(4),stemp_raw_avg4,plot,a3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(5),stemp_raw_avg5,plot,a4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(6),stemp_raw_avg6,plot,a5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(7),stemp_raw_avg7,plot,a6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(8),stemp_raw_avg8,plot,a7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(9),stemp_raw_avg9,plot,a8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(10),stemp_raw_avg10,plot,a9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(11),stemp_raw_avg11,plot,b0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(12),stemp_raw_avg12,plot,b1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(13),stemp_raw_avg13,plot,b2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(14),stemp_raw_avg14,plot,b3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(15),stemp_raw_avg15,plot,b4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(16),stemp_raw_avg16,plot,b5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(17),stemp_raw_avg17,plot,b6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(18),stemp_raw_avg18,plot,b7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(19),stemp_raw_avg19,plot,b8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(20),stemp_raw_avg20,plot,b9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(21),stemp_raw_avg21,plot,c0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(22),stemp_raw_avg22,plot,c1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(23),stemp_raw_avg23,plot,c2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(24),stemp_raw_avg24,plot,c3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(25),stemp_raw_avg25,plot,c4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(26),stemp_raw_avg26,plot,c5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(27),stemp_raw_avg27,plot,c6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(28),stemp_raw_avg28,plot,c7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(29),stemp_raw_avg29,plot,c8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
-STemp_Raw_Avg(30),stemp_raw_avg30,plot,c9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_control
+STemp_Avg(1),stemp_avg1,plot,a0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(2),stemp_avg2,plot,a1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(3),stemp_avg3,plot,a2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(4),stemp_avg4,plot,a3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(5),stemp_avg5,plot,a4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(6),stemp_avg6,plot,a5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(7),stemp_avg7,plot,a6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(8),stemp_avg8,plot,a7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(9),stemp_avg9,plot,a8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(10),stemp_avg10,plot,a9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(11),stemp_avg11,plot,b0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(12),stemp_avg12,plot,b1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(13),stemp_avg13,plot,b2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(14),stemp_avg14,plot,b3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(15),stemp_avg15,plot,b4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(16),stemp_avg16,plot,b5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(17),stemp_avg17,plot,b6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(18),stemp_avg18,plot,b7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(19),stemp_avg19,plot,b8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(20),stemp_avg20,plot,b9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(21),stemp_avg21,plot,c0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(22),stemp_avg22,plot,c1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(23),stemp_avg23,plot,c2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(24),stemp_avg24,plot,c3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(25),stemp_avg25,plot,c4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(26),stemp_avg26,plot,c5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(27),stemp_avg27,plot,c6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(28),stemp_avg28,plot,c7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(29),stemp_avg29,plot,c8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Avg(30),stemp_avg30,plot,c9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_control
+STemp_Raw_Std(1),stemp_raw_std1,plot,a0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(2),stemp_raw_std2,plot,a1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(3),stemp_raw_std3,plot,a2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(4),stemp_raw_std4,plot,a3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(5),stemp_raw_std5,plot,a4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(6),stemp_raw_std6,plot,a5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(7),stemp_raw_std7,plot,a6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(8),stemp_raw_std8,plot,a7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(9),stemp_raw_std9,plot,a8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(10),stemp_raw_std10,plot,a9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(11),stemp_raw_std11,plot,b0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(12),stemp_raw_std12,plot,b1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(13),stemp_raw_std13,plot,b2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(14),stemp_raw_std14,plot,b3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(15),stemp_raw_std15,plot,b4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(16),stemp_raw_std16,plot,b5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(17),stemp_raw_std17,plot,b6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(18),stemp_raw_std18,plot,b7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(19),stemp_raw_std19,plot,b8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(20),stemp_raw_std20,plot,b9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(21),stemp_raw_std21,plot,c0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(22),stemp_raw_std22,plot,c1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(23),stemp_raw_std23,plot,c2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(24),stemp_raw_std24,plot,c3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(25),stemp_raw_std25,plot,c4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(26),stemp_raw_std26,plot,c5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(27),stemp_raw_std27,plot,c6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(28),stemp_raw_std28,plot,c7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(29),stemp_raw_std29,plot,c8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Std(30),stemp_raw_std30,plot,c9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(1),stemp_raw_avg1,plot,a0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(2),stemp_raw_avg2,plot,a1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(3),stemp_raw_avg3,plot,a2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(4),stemp_raw_avg4,plot,a3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(5),stemp_raw_avg5,plot,a4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(6),stemp_raw_avg6,plot,a5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(7),stemp_raw_avg7,plot,a6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(8),stemp_raw_avg8,plot,a7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(9),stemp_raw_avg9,plot,a8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(10),stemp_raw_avg10,plot,a9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(11),stemp_raw_avg11,plot,b0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(12),stemp_raw_avg12,plot,b1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(13),stemp_raw_avg13,plot,b2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(14),stemp_raw_avg14,plot,b3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(15),stemp_raw_avg15,plot,b4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(16),stemp_raw_avg16,plot,b5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(17),stemp_raw_avg17,plot,b6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(18),stemp_raw_avg18,plot,b7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(19),stemp_raw_avg19,plot,b8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(20),stemp_raw_avg20,plot,b9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(21),stemp_raw_avg21,plot,c0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(22),stemp_raw_avg22,plot,c1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(23),stemp_raw_avg23,plot,c2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(24),stemp_raw_avg24,plot,c3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(25),stemp_raw_avg25,plot,c4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(26),stemp_raw_avg26,plot,c5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(27),stemp_raw_avg27,plot,c6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(28),stemp_raw_avg28,plot,c7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(29),stemp_raw_avg29,plot,c8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
+STemp_Raw_Avg(30),stemp_raw_avg30,plot,c9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_control
 Flag(1),flag1,site,logger,n,flag1,genx,number,NA,treatments all on (-1),genx_control
 Flag(2),flag2,site,logger,n,flag2,genx,number,NA,relay switched for power reset on Arduino co2 loggers (-1),genx_control
 Flag(3),flag3,site,logger,n,flag3,genx,number,NA,belowground heating on (-1),genx_control
@@ -360,36 +360,36 @@ B_DC_prev(27),b_dc_prev27,plot,c8,y,b_dc_prev,genx,number,NA,previously computed
 B_DC_prev(28),b_dc_prev28,plot,a9,y,b_dc_prev,genx,number,NA,previously computed (-15 seconds) duty cycle proportion belowground (0-1),genx_control
 B_DC_prev(29),b_dc_prev29,plot,b9,y,b_dc_prev,genx,number,NA,previously computed (-15 seconds) duty cycle proportion belowground (0-1),genx_control
 B_DC_prev(30),b_dc_prev30,plot,c9,y,b_dc_prev,genx,number,NA,previously computed (-15 seconds) duty cycle proportion belowground (0-1),genx_control
-BTemp_Avg(1),btemp_avg1,plot,a0,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(2),btemp_avg2,plot,b0,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(3),btemp_avg3,plot,c0,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(4),btemp_avg4,plot,a1,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(5),btemp_avg5,plot,b1,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(6),btemp_avg6,plot,c1,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(7),btemp_avg7,plot,a2,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(8),btemp_avg8,plot,b2,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(9),btemp_avg9,plot,c2,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(10),btemp_avg10,plot,a3,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(11),btemp_avg11,plot,b3,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(12),btemp_avg12,plot,c3,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(13),btemp_avg13,plot,a4,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(14),btemp_avg14,plot,b4,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(15),btemp_avg15,plot,c4,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(16),btemp_avg16,plot,a5,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(17),btemp_avg17,plot,b5,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(18),btemp_avg18,plot,c5,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(19),btemp_avg19,plot,a6,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(20),btemp_avg20,plot,b6,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(21),btemp_avg21,plot,c6,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(22),btemp_avg22,plot,a7,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(23),btemp_avg23,plot,b7,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(24),btemp_avg24,plot,c7,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(25),btemp_avg25,plot,a8,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(26),btemp_avg26,plot,b8,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(27),btemp_avg27,plot,c8,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(28),btemp_avg28,plot,a9,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(29),btemp_avg29,plot,b9,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
-BTemp_Avg(30),btemp_avg30,plot,c9,y,btemp_avg,genx,number,degrees Celsius,average (OVER WHAT?) belowground pin and lag temperature,genx_control
+BTemp_Avg(1),btemp_avg1,plot,a0,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(2),btemp_avg2,plot,b0,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(3),btemp_avg3,plot,c0,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(4),btemp_avg4,plot,a1,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(5),btemp_avg5,plot,b1,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(6),btemp_avg6,plot,c1,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(7),btemp_avg7,plot,a2,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(8),btemp_avg8,plot,b2,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(9),btemp_avg9,plot,c2,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(10),btemp_avg10,plot,a3,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(11),btemp_avg11,plot,b3,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(12),btemp_avg12,plot,c3,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(13),btemp_avg13,plot,a4,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(14),btemp_avg14,plot,b4,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(15),btemp_avg15,plot,c4,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(16),btemp_avg16,plot,a5,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(17),btemp_avg17,plot,b5,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(18),btemp_avg18,plot,c5,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(19),btemp_avg19,plot,a6,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(20),btemp_avg20,plot,b6,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(21),btemp_avg21,plot,c6,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(22),btemp_avg22,plot,a7,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(23),btemp_avg23,plot,b7,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(24),btemp_avg24,plot,c7,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(25),btemp_avg25,plot,a8,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(26),btemp_avg26,plot,b8,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(27),btemp_avg27,plot,c8,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(28),btemp_avg28,plot,a9,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(29),btemp_avg29,plot,b9,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
+BTemp_Avg(30),btemp_avg30,plot,c9,y,btemp_avg,genx,number,degrees Celsius,average belowground pin and lag temperature,genx_control
 B_Duty(7),b_duty7,plot,a2,y,b_duty,genx,number,NA,belowground arduino duty cycle proportion (0-1000 milliseconds),genx_control
 B_Duty(8),b_duty8,plot,b2,y,b_duty,genx,number,NA,belowground arduino duty cycle proportion (0-1000 milliseconds),genx_control
 B_Duty(9),b_duty9,plot,c2,y,b_duty,genx,number,NA,belowground arduino duty cycle proportion (0-1000 milliseconds),genx_control
@@ -476,31 +476,31 @@ PIN_R(8),pin_r8,treatment,zone_7,y,pin_r,genx,number,degrees Celsius,running ave
 PIN_R(9),pin_r9,treatment,zone_8,y,pin_r,genx,number,degrees Celsius,running average temperature over 5 minutes at warming pin,genx_control
 PIN_R(10),pin_r10,treatment,zone_9,y,pin_r,genx,number,degrees Celsius,running average temperature over 5 minutes at warming pin,genx_control
 AMB_R,amb_r,site,logger,n,amb_r,genx,number,degrees Celsius,running average temperature over 5 minutes in ambient plots,genx_control
-M_AMB,m_amb,site,logger,n,m_amb,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(7),m_pin7,plot,a2,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(8),m_pin8,plot,b2,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(9),m_pin9,plot,c2,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(10),m_pin10,plot,a3,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(11),m_pin11,plot,b3,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(12),m_pin12,plot,c3,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(13),m_pin13,plot,a4,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(14),m_pin14,plot,b4,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(15),m_pin15,plot,c4,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(16),m_pin16,plot,a5,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(17),m_pin17,plot,b5,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(18),m_pin18,plot,c5,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(19),m_pin19,plot,a6,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(20),m_pin20,plot,b6,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(21),m_pin21,plot,c6,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(22),m_pin22,plot,a7,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(23),m_pin23,plot,b7,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(24),m_pin24,plot,c7,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(25),m_pin25,plot,a8,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(26),m_pin26,plot,b8,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(27),m_pin27,plot,c8,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(28),m_pin28,plot,a9,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(29),m_pin29,plot,b9,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
-M_PIN(30),m_pin30,plot,c9,y,m_pin,genx,number,degrees Celsius,IDK,genx_control
+M_AMB,m_amb,site,logger,n,m_amb,genx,number,degrees Celsius,,genx_control
+M_PIN(7),m_pin7,plot,a2,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(8),m_pin8,plot,b2,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(9),m_pin9,plot,c2,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(10),m_pin10,plot,a3,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(11),m_pin11,plot,b3,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(12),m_pin12,plot,c3,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(13),m_pin13,plot,a4,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(14),m_pin14,plot,b4,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(15),m_pin15,plot,c4,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(16),m_pin16,plot,a5,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(17),m_pin17,plot,b5,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(18),m_pin18,plot,c5,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(19),m_pin19,plot,a6,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(20),m_pin20,plot,b6,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(21),m_pin21,plot,c6,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(22),m_pin22,plot,a7,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(23),m_pin23,plot,b7,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(24),m_pin24,plot,c7,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(25),m_pin25,plot,a8,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(26),m_pin26,plot,b8,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(27),m_pin27,plot,c8,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(28),m_pin28,plot,a9,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(29),m_pin29,plot,b9,y,m_pin,genx,number,degrees Celsius,,genx_control
+M_PIN(30),m_pin30,plot,c9,y,m_pin,genx,number,degrees Celsius,,genx_control
 Proj_AMB30,proj_amb30,site,logger,n,proj_amb30,genx,number,degrees Celsius,3 minute projection of temperature in ambient plots,genx_control
 Proj_PIN30(7),proj_pin307,plot,a2,y,proj_pin30,genx,number,degrees Celsius,3 minute projection of temperature at warming pin,genx_control
 Proj_PIN30(8),proj_pin308,plot,b2,y,proj_pin30,genx,number,degrees Celsius,3 minute projection of temperature at warming pin,genx_control
@@ -700,96 +700,96 @@ Soil_Message(7),soil_message7,treatment,zone_6,y,soil_message,genx,character,NA,
 Soil_Message(8),soil_message8,treatment,zone_7,y,soil_message,genx,character,NA,message about whether treatments are too high,genx_export
 Soil_Message(9),soil_message9,treatment,zone_8,y,soil_message,genx,character,NA,message about whether treatments are too high,genx_export
 Soil_Message(10),soil_message10,treatment,zone_9,y,soil_message,genx,character,NA,message about whether treatments are too high,genx_export
-STemp_Avg(1),stemp_avg1,plot,a0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(2),stemp_avg2,plot,a1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(3),stemp_avg3,plot,a2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(4),stemp_avg4,plot,a3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(5),stemp_avg5,plot,a4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(6),stemp_avg6,plot,a5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(7),stemp_avg7,plot,a6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(8),stemp_avg8,plot,a7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(9),stemp_avg9,plot,a8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(10),stemp_avg10,plot,a9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(11),stemp_avg11,plot,b0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(12),stemp_avg12,plot,b1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(13),stemp_avg13,plot,b2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(14),stemp_avg14,plot,b3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(15),stemp_avg15,plot,b4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(16),stemp_avg16,plot,b5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(17),stemp_avg17,plot,b6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(18),stemp_avg18,plot,b7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(19),stemp_avg19,plot,b8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(20),stemp_avg20,plot,b9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(21),stemp_avg21,plot,c0,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(22),stemp_avg22,plot,c1,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(23),stemp_avg23,plot,c2,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(24),stemp_avg24,plot,c3,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(25),stemp_avg25,plot,c4,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(26),stemp_avg26,plot,c5,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(27),stemp_avg27,plot,c6,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(28),stemp_avg28,plot,c7,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(29),stemp_avg29,plot,c8,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Avg(30),stemp_avg30,plot,c9,y,stemp_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer screened for feedback loop temperature,genx_export
-STemp_Raw_Std(1),stemp_raw_std1,plot,a0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(2),stemp_raw_std2,plot,a1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(3),stemp_raw_std3,plot,a2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(4),stemp_raw_std4,plot,a3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(5),stemp_raw_std5,plot,a4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(6),stemp_raw_std6,plot,a5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(7),stemp_raw_std7,plot,a6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(8),stemp_raw_std8,plot,a7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(9),stemp_raw_std9,plot,a8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(10),stemp_raw_std10,plot,a9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(11),stemp_raw_std11,plot,b0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(12),stemp_raw_std12,plot,b1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(13),stemp_raw_std13,plot,b2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(14),stemp_raw_std14,plot,b3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(15),stemp_raw_std15,plot,b4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(16),stemp_raw_std16,plot,b5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(17),stemp_raw_std17,plot,b6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(18),stemp_raw_std18,plot,b7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(19),stemp_raw_std19,plot,b8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(20),stemp_raw_std20,plot,b9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(21),stemp_raw_std21,plot,c0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(22),stemp_raw_std22,plot,c1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(23),stemp_raw_std23,plot,c2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(24),stemp_raw_std24,plot,c3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(25),stemp_raw_std25,plot,c4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(26),stemp_raw_std26,plot,c5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(27),stemp_raw_std27,plot,c6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(28),stemp_raw_std28,plot,c7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(29),stemp_raw_std29,plot,c8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Std(30),stemp_raw_std30,plot,c9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation (OVER WHAT?) of incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(1),stemp_raw_avg1,plot,a0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(2),stemp_raw_avg2,plot,a1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(3),stemp_raw_avg3,plot,a2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(4),stemp_raw_avg4,plot,a3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(5),stemp_raw_avg5,plot,a4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(6),stemp_raw_avg6,plot,a5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(7),stemp_raw_avg7,plot,a6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(8),stemp_raw_avg8,plot,a7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(9),stemp_raw_avg9,plot,a8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(10),stemp_raw_avg10,plot,a9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(11),stemp_raw_avg11,plot,b0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(12),stemp_raw_avg12,plot,b1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(13),stemp_raw_avg13,plot,b2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(14),stemp_raw_avg14,plot,b3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(15),stemp_raw_avg15,plot,b4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(16),stemp_raw_avg16,plot,b5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(17),stemp_raw_avg17,plot,b6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(18),stemp_raw_avg18,plot,b7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(19),stemp_raw_avg19,plot,b8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(20),stemp_raw_avg20,plot,b9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(21),stemp_raw_avg21,plot,c0,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(22),stemp_raw_avg22,plot,c1,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(23),stemp_raw_avg23,plot,c2,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(24),stemp_raw_avg24,plot,c3,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(25),stemp_raw_avg25,plot,c4,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(26),stemp_raw_avg26,plot,c5,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(27),stemp_raw_avg27,plot,c6,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(28),stemp_raw_avg28,plot,c7,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(29),stemp_raw_avg29,plot,c8,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
-STemp_Raw_Avg(30),stemp_raw_avg30,plot,c9,y,stemp_raw_avg,genx,number,degrees Celsius,average (AVERAGED OVER WHAT?) incoming temperature from multiplexer,genx_export
+STemp_Avg(1),stemp_avg1,plot,a0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(2),stemp_avg2,plot,a1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(3),stemp_avg3,plot,a2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(4),stemp_avg4,plot,a3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(5),stemp_avg5,plot,a4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(6),stemp_avg6,plot,a5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(7),stemp_avg7,plot,a6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(8),stemp_avg8,plot,a7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(9),stemp_avg9,plot,a8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(10),stemp_avg10,plot,a9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(11),stemp_avg11,plot,b0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(12),stemp_avg12,plot,b1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(13),stemp_avg13,plot,b2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(14),stemp_avg14,plot,b3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(15),stemp_avg15,plot,b4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(16),stemp_avg16,plot,b5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(17),stemp_avg17,plot,b6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(18),stemp_avg18,plot,b7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(19),stemp_avg19,plot,b8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(20),stemp_avg20,plot,b9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(21),stemp_avg21,plot,c0,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(22),stemp_avg22,plot,c1,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(23),stemp_avg23,plot,c2,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(24),stemp_avg24,plot,c3,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(25),stemp_avg25,plot,c4,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(26),stemp_avg26,plot,c5,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(27),stemp_avg27,plot,c6,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(28),stemp_avg28,plot,c7,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(29),stemp_avg29,plot,c8,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Avg(30),stemp_avg30,plot,c9,y,stemp_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer screened for feedback loop temperature,genx_export
+STemp_Raw_Std(1),stemp_raw_std1,plot,a0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(2),stemp_raw_std2,plot,a1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(3),stemp_raw_std3,plot,a2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(4),stemp_raw_std4,plot,a3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(5),stemp_raw_std5,plot,a4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(6),stemp_raw_std6,plot,a5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(7),stemp_raw_std7,plot,a6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(8),stemp_raw_std8,plot,a7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(9),stemp_raw_std9,plot,a8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(10),stemp_raw_std10,plot,a9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(11),stemp_raw_std11,plot,b0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(12),stemp_raw_std12,plot,b1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(13),stemp_raw_std13,plot,b2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(14),stemp_raw_std14,plot,b3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(15),stemp_raw_std15,plot,b4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(16),stemp_raw_std16,plot,b5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(17),stemp_raw_std17,plot,b6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(18),stemp_raw_std18,plot,b7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(19),stemp_raw_std19,plot,b8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(20),stemp_raw_std20,plot,b9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(21),stemp_raw_std21,plot,c0,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(22),stemp_raw_std22,plot,c1,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(23),stemp_raw_std23,plot,c2,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(24),stemp_raw_std24,plot,c3,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(25),stemp_raw_std25,plot,c4,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(26),stemp_raw_std26,plot,c5,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(27),stemp_raw_std27,plot,c6,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(28),stemp_raw_std28,plot,c7,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(29),stemp_raw_std29,plot,c8,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Std(30),stemp_raw_std30,plot,c9,y,stemp_raw_std,genx,number,degrees Celsius,standard deviation of incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(1),stemp_raw_avg1,plot,a0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(2),stemp_raw_avg2,plot,a1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(3),stemp_raw_avg3,plot,a2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(4),stemp_raw_avg4,plot,a3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(5),stemp_raw_avg5,plot,a4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(6),stemp_raw_avg6,plot,a5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(7),stemp_raw_avg7,plot,a6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(8),stemp_raw_avg8,plot,a7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(9),stemp_raw_avg9,plot,a8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(10),stemp_raw_avg10,plot,a9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(11),stemp_raw_avg11,plot,b0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(12),stemp_raw_avg12,plot,b1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(13),stemp_raw_avg13,plot,b2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(14),stemp_raw_avg14,plot,b3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(15),stemp_raw_avg15,plot,b4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(16),stemp_raw_avg16,plot,b5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(17),stemp_raw_avg17,plot,b6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(18),stemp_raw_avg18,plot,b7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(19),stemp_raw_avg19,plot,b8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(20),stemp_raw_avg20,plot,b9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(21),stemp_raw_avg21,plot,c0,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(22),stemp_raw_avg22,plot,c1,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(23),stemp_raw_avg23,plot,c2,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(24),stemp_raw_avg24,plot,c3,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(25),stemp_raw_avg25,plot,c4,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(26),stemp_raw_avg26,plot,c5,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(27),stemp_raw_avg27,plot,c6,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(28),stemp_raw_avg28,plot,c7,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(29),stemp_raw_avg29,plot,c8,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
+STemp_Raw_Avg(30),stemp_raw_avg30,plot,c9,y,stemp_raw_avg,genx,number,degrees Celsius,average incoming temperature from multiplexer,genx_export
 Powerpro_Avg(7),powerpro_avg7,plot,a2,y,powerpro_avg,genx,number,NA,proportion of power used,genx_export
 Powerpro_Avg(8),powerpro_avg8,plot,b2,y,powerpro_avg,genx,number,NA,proportion of power used,genx_export
 Powerpro_Avg(9),powerpro_avg9,plot,c2,y,powerpro_avg,genx,number,NA,proportion of power used,genx_export
@@ -979,34 +979,34 @@ Therm25C_Avg(11),therm25c_avg11,plot,c8,y,therm25c_avg,genx,number,degrees Celsi
 Therm25C_Avg(12),therm25c_avg12,plot,b9,y,therm25c_avg,genx,number,degrees Celsius,soil temperature at 25 centimeter depth,genx_export
 Therm25C_Avg(13),therm25c_avg13,plot,13_amb,y,therm25c_avg,genx,number,degrees Celsius,soil temperature at 25 centimeter depth,genx_export
 Therm25C_Avg(14),therm25c_avg14,plot,14_amb,y,therm25c_avg,genx,number,degrees Celsius,soil temperature at 25 centimeter depth,genx_export
-Therm10pin_Avg(1),therm10pin_avg1,plot,a0,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(2),therm10pin_avg2,plot,c1,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(3),therm10pin_avg3,plot,b2,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(4),therm10pin_avg4,plot,a3,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(5),therm10pin_avg5,plot,c4,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(6),therm10pin_avg6,plot,b4,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(7),therm10pin_avg7,plot,a5,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(8),therm10pin_avg8,plot,c6,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(9),therm10pin_avg9,plot,b6,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(10),therm10pin_avg10,plot,a7,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(11),therm10pin_avg11,plot,c8,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(12),therm10pin_avg12,plot,b9,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(13),therm10pin_avg13,plot,13_amb,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm10pin_Avg(14),therm10pin_avg14,plot,14_amb,y,therm10pin_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(1),therm90ext_avg1,plot,a0,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(2),therm90ext_avg2,plot,c1,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(3),therm90ext_avg3,plot,b2,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(4),therm90ext_avg4,plot,a3,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(5),therm90ext_avg5,plot,c4,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(6),therm90ext_avg6,plot,b4,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(7),therm90ext_avg7,plot,a5,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(8),therm90ext_avg8,plot,c6,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(9),therm90ext_avg9,plot,b6,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(10),therm90ext_avg10,plot,a7,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(11),therm90ext_avg11,plot,c8,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(12),therm90ext_avg12,plot,b9,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(13),therm90ext_avg13,plot,13_amb,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
-Therm90ext_Avg(14),therm90ext_avg14,plot,14_amb,y,therm90ext_avg,genx,number,degrees Celsius,NA,genx_export
+Therm10pin_Avg(1),therm10pin_avg1,plot,a0,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(2),therm10pin_avg2,plot,c1,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(3),therm10pin_avg3,plot,b2,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(4),therm10pin_avg4,plot,a3,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(5),therm10pin_avg5,plot,c4,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(6),therm10pin_avg6,plot,b4,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(7),therm10pin_avg7,plot,a5,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(8),therm10pin_avg8,plot,c6,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(9),therm10pin_avg9,plot,b6,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(10),therm10pin_avg10,plot,a7,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(11),therm10pin_avg11,plot,c8,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(12),therm10pin_avg12,plot,b9,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(13),therm10pin_avg13,plot,13_amb,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm10pin_Avg(14),therm10pin_avg14,plot,14_amb,y,therm10pin_avg,genx,number,degrees Celsius,soil temperature at 10 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(1),therm90ext_avg1,plot,a0,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(2),therm90ext_avg2,plot,c1,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(3),therm90ext_avg3,plot,b2,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(4),therm90ext_avg4,plot,a3,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(5),therm90ext_avg5,plot,c4,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(6),therm90ext_avg6,plot,b4,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(7),therm90ext_avg7,plot,a5,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(8),therm90ext_avg8,plot,c6,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(9),therm90ext_avg9,plot,b6,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(10),therm90ext_avg10,plot,a7,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(11),therm90ext_avg11,plot,c8,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(12),therm90ext_avg12,plot,b9,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(13),therm90ext_avg13,plot,13_amb,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
+Therm90ext_Avg(14),therm90ext_avg14,plot,14_amb,y,therm90ext_avg,genx,number,degrees Celsius,soil temperature at 90 centimeter depth outside of the chamber,genx_export
 Therm10amb_Avg,therm10amb_avg,site,logger,n,therm10amb_avg,genx,number,degrees Celsius,ambient average from Campbell,genx_export
 Dif_10C_Avg(1),dif_10c_avg1,plot,a0,y,dif_10c_avg,genx,number,degrees Celsius,difference between chamber temperature at 10 centimeter depth and amb_b,genx_export
 Dif_10C_Avg(2),dif_10c_avg2,plot,c1,y,dif_10c_avg,genx,number,degrees Celsius,difference between chamber temperature at 10 centimeter depth and amb_b,genx_export
